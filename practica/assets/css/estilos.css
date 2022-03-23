@@ -1,0 +1,195 @@
+.borderRed {
+    border: solid red 1px;
+}
+
+.borderBlue {
+    border: solid blue 1px;
+}
+
+.borderGreen {
+    border: solid green 1px;
+}
+
+.borderYellow {
+    border: solid green 1px;
+}
+
+.borderYellow {
+    border: solid pink 1px;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    /* background-color: aqua; */
+}
+
+.headerDimension {
+    height: 60px;
+    width: 100%;
+}
+
+.headerPosition {
+    position: fixed;
+    top: 0px;
+}
+
+.cesar {
+    position: relative;
+}
+
+.headerBG {
+    background-color: rgba(255, 255, 255, 0.733); 
+}
+
+.headerZIndex {
+   z-index: 1000;
+}
+
+.fondoZIndex {
+    z-index: -1;
+ }
+
+.linkNone {
+    text-decoration: none;
+}
+
+.primaryColor {
+    color: #0045bc;
+}
+
+.primaryColorBG {
+    background-color: #0045bc;
+}
+
+.letterColorGray {
+    color: #7a7a7a;
+}
+
+.letterColorGrayBG {
+    background-color: #7a7a7a;
+}
+
+.strongColor {
+    color:  #071635;
+}
+
+.strongColorBG {
+    background-color: #071635;
+}
+
+.letterColorWhite {
+    color: #ffffff;
+}
+
+.letterColorWhiteBG {
+    background-color: #ffffff;
+}
+
+.sizeChico {
+    font-size: smaller;
+}
+
+.sizeNormal {
+    font-size: 14px;
+}
+
+.sizeMediano {
+    font-size: 24px;
+}
+
+.sizeGrande {
+    font-size: 34px;
+}
+
+.sizeExtraGrande {
+    font-size: 44px;
+}
+
+.sizeExtraExtraGrande {
+    font-size: 60px;
+}
+
+.weightBold {
+    font-weight: bold;
+}
+
+.buttonNavDimensions{
+    display: block;
+    width: 80%;
+    height: 30px;
+    border-radius: 3px !important;
+}
+
+.inlineBlock{
+    display: block;
+}
+
+.img-1 {
+    background-image: url("../img/fondoBlanco.jpg");
+}
+
+.img-2 {
+    background-image: url("../img/red-blue.webp");
+}
+
+.altoSeccionInfo {
+    height: 800px;
+}
+
+.anchoFondo {
+    width: 50%;
+}
+
+.dimensionImgFondoEnd {
+    margin: 0px;
+    padding: 0px;
+    width: 50%;
+    height: 800px;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    float: right;
+}
+
+.origenPosition{
+    padding-top: 150px;
+    position: relative;
+}
+
+.contenedorImg{
+    position: absolute;
+    height: auto;
+    width: 100%;
+    top: 0px;
+    z-index: -1;
+}
+
+.icon-color{
+    color:  rgb(249, 218, 66);
+    background-color: rgb(255, 252, 244);
+}
+
+.schedule {
+    position: relative;
+    margin-top: 100px;
+}
+
+.infoSchedule {
+    padding: 20px 20px 5px 20px;
+    height: auto;
+    z-index: 100;
+}
+
+.caracteristicasIMGLogo{
+    width: 90%;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 10px;
+}
+
+.altoSeccionLogos{
+    height: 90px;
+}
+
+.altoSeccionPreguntas{
+    height: auto;
+}
