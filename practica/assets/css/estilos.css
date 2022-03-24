@@ -61,6 +61,14 @@ body {
     background-color: #0045bc;
 }
 
+.footerColor {
+    color:  #b6d1ff;
+}
+
+.footerColorBG {
+    background-color:  #b6d1ff;
+}
+
 .letterColorGray {
     color: #7a7a7a;
 }
@@ -192,4 +200,15 @@ body {
 
 .altoSeccionPreguntas{
     height: auto;
+}
+
+.altoSeccionEmergency{
+    height: 150px;
+}
+.altoFooter{
+    height: 250px;
+}
+
+.altoFooter{
+    height: 300px;
 }
